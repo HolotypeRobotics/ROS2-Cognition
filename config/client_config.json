@@ -1,0 +1,4 @@
+// zephyr drivers,name
+// controller board (raspberry pi, esp32 etc)
+// connection type (bluetooth, wifi, usb)
+// logging
